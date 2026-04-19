@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp /tmp/design-extract/jonthz-dev/project/index.html /tmp/index-design.html)",
+      "Read(//tmp/**)"
+    ]
+  }
+}
