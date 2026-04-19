@@ -23,7 +23,7 @@ const FULL = "Software Engineer & AI Researcher";
 
 const LINKS = [
   { label: "GitHub", href: "https://github.com/jonthz" },
-  { label: "LinkedIn", href: "https://linkedin.com/in/jonthz" },
+  { label: "LinkedIn", href: "https://www.linkedin.com/in/jonathan-zambrano-477b81252/" },
   { label: "Email", href: "mailto:jonathan.zambrano.k@gmail.com" },
 ];
 
